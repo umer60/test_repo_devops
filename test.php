@@ -5,6 +5,7 @@
 <?php
 
   echo "Now it should automatic trigger the build" ;
+  echo "This second automatic trigger";
 ?>
 
 </body>
